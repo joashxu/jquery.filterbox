@@ -3,17 +3,15 @@
 
 ## What is it?
 
-    jQuery plugin that convert multiple select element into select filter.
-    This is heavily insipired from django admin selectfilter.
-    I needed for one of my project so I made it into a jQuery plugin.
-    
-    ![](http://github.com/jxu/jquery.filterbox/raw/master/demo/screenshot/screen_shot.png)
+jQuery plugin that convert multiple select element into select filter.
+This is heavily insipired from django admin selectfilter.
+I needed it for one of my project so I made it into a jQuery plugin.
+
+![](http://github.com/jxu/jquery.filterbox/raw/master/demo/screenshot/screen_shot.png)
     
 ## Usage
 
-    ```
     $('#select_element_id').filterbox();
-    ```
 
 ## License 
 
